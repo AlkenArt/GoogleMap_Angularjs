@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, minimum-scale=.25 user-scalable=yes"/>
+<script src= "libraries/angular-1.4.0/angular.js"></script>
+<script src= "app/app.js"></script>
+<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
+</head>
+<body>
+
+<div ng-app="GMap_ng">
+	<div ng-controller="mapController">
+		<div id="map" style="height:97vh;">
+		</div>
+	</div>
+	<div ng-view=""></div>
+</div>
+
+</body>
+</html>

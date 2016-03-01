@@ -1,0 +1,40 @@
+{
+
+"area":[
+	  {	
+	  	"zipCode":"10001",
+	  	"ap":[
+	  		{
+		    "city" : "Delhi",
+		    "address":"New Delhi, Capital of India",
+		    "lat":"28.6100",
+		    "long":"77.2300"
+		  	},
+		  	{
+		    "city" : "Raipur",
+		    "address":"Naya Raipur,Capital of Chhattisgarh, India",
+		    "lat":"21.1400",
+		    "long":"81.3800"
+		  	},
+		  	{
+		    "city" : "Bangalore",
+		    "address":"Capital of Karnatka and Green City, India",
+		    "lat":"12.9667",
+		    "long":"77.5667"
+		  	},
+		  	{
+		    "city" : "Jaipur",
+		    "address":"Capital of Rajsthan and Pink City, India",
+		    "lat":"26.9000",
+		    "long":"75.8000"
+		  	},
+		  	{
+		    "city" : "Mumbai",
+		    "address":"Capital of Maharashtra, India",
+		    "lat":"18.9750",
+		    "long":"72.8258"
+		  	}
+	  	]
+	  }
+]
+}
